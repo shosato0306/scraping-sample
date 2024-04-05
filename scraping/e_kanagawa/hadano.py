@@ -2,8 +2,6 @@ import datetime
 
 from selenium import webdriver
 from selenium.webdriver.common.by import By
-from selenium.webdriver.support.ui import WebDriverWait
-from selenium.webdriver.support import expected_conditions as EC
 
 
 hadano_top_page_url = 'https://yoyaku.e-kanagawa.lg.jp/Hadano/Web/Wg_ModeSelect.aspx'
