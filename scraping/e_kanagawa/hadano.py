@@ -3,6 +3,9 @@ import datetime
 from selenium import webdriver
 from selenium.webdriver.common.by import By
 
+# 動作確認用に e-kanagawa 秦野市の施設予約サイトから
+# 「スポーツ施設」を選択 →「メタックス体育館はだの」→ 「日時指定」→「時間帯別空き状況」ページに遷移し、
+# 「メタックス体育館はだの/メインアリーナの今日の空き情報」を取得するスクレイピング処理を実装
 
 hadano_top_page_url = 'https://yoyaku.e-kanagawa.lg.jp/Hadano/Web/Wg_ModeSelect.aspx'
 hadano_top_page_sport_facility_id = 'dlSSCategory_ctl00_btnSSCategory'
