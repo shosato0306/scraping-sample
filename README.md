@@ -9,7 +9,7 @@
 - poetry
   - python のパッケージマネージャツール
 
-インストールについてはこの辺りが参考になるかも
+インストールについてはこの辺りが参考になるかも  
 https://qiita.com/Ryku/items/512a6744bfa9903bf2dd
 
 ## set up
